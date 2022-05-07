@@ -6,7 +6,7 @@
 - Biotecnologia
 ## Datos del Equipo
 - Procesador:
-Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz   3.40 GHz
-## Programas
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
+## Programas 
 - Gitbash v2.36.0
-- Github Desktop 3.0.0
+- Github Desktop 3.0
